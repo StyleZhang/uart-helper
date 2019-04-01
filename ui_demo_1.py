@@ -289,7 +289,7 @@ class Ui_Form(object):
         self.s1__lb_2.setText(_translate("Form", "串口选择："))
         self.s1__lb_3.setText(_translate("Form", "波特率："))
 
-        self.s1__box_3.setItemText(0, _translate("Form", "115200"))
+        self.s1__box_3.setItemText(0, _translate("Form", "230400"))
         self.s1__box_3.setItemText(1, _translate("Form", "2400"))
         self.s1__box_3.setItemText(2, _translate("Form", "4800"))
         self.s1__box_3.setItemText(3, _translate("Form", "9600"))
@@ -299,7 +299,7 @@ class Ui_Form(object):
         self.s1__box_3.setItemText(7, _translate("Form", "57600"))
         self.s1__box_3.setItemText(8, _translate("Form", "76800"))
         self.s1__box_3.setItemText(9, _translate("Form", "12800"))
-        self.s1__box_3.setItemText(10, _translate("Form", "230400"))
+        self.s1__box_3.setItemText(10, _translate("Form", "115200"))
         self.s1__box_3.setItemText(11, _translate("Form", "460800"))
         self.s1__lb_4.setText(_translate("Form", "数据位："))
         self.s1__box_4.setItemText(0, _translate("Form", "8"))
